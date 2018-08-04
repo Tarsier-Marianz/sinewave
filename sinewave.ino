@@ -41,7 +41,7 @@ void loop() {
 
 void generate_sinusoidal() {
   float angle     = 2 * PI / 3;                       // convert constant angle offset 120 degree to radian (source: see above sources)
-  float time_sec  = millis() / 1000.0;                // convert milli to second
+  float time_sec  = millis() / 1000.0;                // convert milli to second (in arduino the default cycle use millis then to calculate Period we use seconds)
   float T         = time_sec / freq;                  // calculate the period by 1/f (seconds)
   float aV        = 2 * PI * freq;                    // ω = calculate angular velocity using formula 2πƒ (rad/sec)
   float y1        = Am + Am * sin ( aV * T );         // and now the formula to to get the value in generating Sinusoidal
