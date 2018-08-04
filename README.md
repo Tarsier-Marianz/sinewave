@@ -23,7 +23,6 @@ Generate 3-phase sinusodial waveforms using Arduino.
 
 
 ## References
-
-[electronicshub](https://www.electronicshub.org/sinusoidal-waveform/)
-
-[electronics-tutorials](https://www.electronics-tutorials.ws/accircuits/sinusoidal-waveform.html)
+Good sites serve as my references to obtain my goal to generate 3-phase sinusoidal, I am not an engineer that's why I read and understand every details given. Containing complete information and clear tutorials are easy for me to understand what's the content it should be. That's why I am very thankful of these sites.
+* [electronicshub](https://www.electronicshub.org/sinusoidal-waveform/)
+* [electronics-tutorials](https://www.electronics-tutorials.ws/accircuits/sinusoidal-waveform.html)
