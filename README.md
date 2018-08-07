@@ -4,7 +4,7 @@ Generate 3-phase sinusodial waveforms using Arduino.
 
 ## Sample Output:
 
-![Image1](sinewave.png?raw=true "Using PUTTY")
+![Image1](sinewave.png?raw=true "Sinusoidal waveform visual representaion-generated from Excel Chart")
 
 ## Factors to considered to get the results
 
